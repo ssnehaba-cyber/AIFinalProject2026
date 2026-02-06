@@ -29,7 +29,7 @@ Installation
 pip install tensorflow numpy pandas scikit-learn matplotlib python-docx
 
 How to Run
-python AITimeSeriesForecasting.py
+python TimeSeriesForecast.py
 
 Output
 - Training logs for baseline and attention models
